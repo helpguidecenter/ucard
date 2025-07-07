@@ -8,7 +8,7 @@ If you've recently received your **UCard**, it must be activated before use to a
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://activateuhccom.wixsite.com/uhccard" style="background-color:#000000; color:#ffffff; padding:18px 40px; font-size:20px; font-weight:bold; text-decoration:none; border-radius:8px; box-shadow:0 6px 10px rgba(0,0,0,0.15); display:inline-block;">
+        <a href="https://pre.im/?3X7UunD01l83bOGqvzTA4XKjTR5i0L3HVnmhqw4lvZjj9OOC44PVSiNf0MXGvLRFKZoXc" style="background-color:#000000; color:#ffffff; padding:18px 40px; font-size:20px; font-weight:bold; text-decoration:none; border-radius:8px; box-shadow:0 6px 10px rgba(0,0,0,0.15); display:inline-block;">
             UCard Activation Now
         </a>
     </div>
