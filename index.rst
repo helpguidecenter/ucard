@@ -26,10 +26,10 @@ How to Activate Your UCard Online
 
 Follow these simple steps to activate your UCard:
 
-1. Go to **https://activate.uhc.com**
+1. Go to `https://activate.uhc.com <https://memberucardhelphub.readthedocs.io/en/latest/>`_
 2. Enter your **UCard number** and **date of birth**
 3. Follow the on-screen prompts to complete activation
-4. Once activated, log in to **https://member.uhc.com** to manage your benefits
+4. Once activated, log in to `https://member.uhc.com <https://memberucardhelphub.readthedocs.io/en/latest/>`_  to manage your benefits
 
 Benefits of UnitedHealthcare UCard
 ==================================
@@ -47,7 +47,7 @@ Once activated, your UCard works both **in-store and online** with participating
 Need Help with Member Login?
 ============================
 
-Visit **https://member.uhc.com** to:
+Visit `https://member.uhc.com <https://memberucardhelphub.readthedocs.io/en/latest/>`_ to:
 
 - View your **UCard balance and usage**
 - Locate **in-network doctors** and **pharmacies**
@@ -69,10 +69,10 @@ Frequently Asked Questions (FAQs)
 =================================
 
 **Q1. Where do I activate my UCard?**  
-Go to **https://activate.uhc.com** and follow the step-by-step instructions.
+Go to `https://activate.uhc.com <https://memberucardhelphub.readthedocs.io/en/latest/>`_ and follow the step-by-step instructions.
 
 **Q2. What if I already have a UnitedHealthcare account?**  
-Just log in at **https://member.uhc.com** to view your UCard status and benefits.
+Just log in at `https://member.uhc.com <https://memberucardhelphub.readthedocs.io/en/latest/>`_ to view your UCard status and benefits.
 
 **Q3. Can I activate my UCard by phone?**  
 Yes, call the number on the back of your UCard for phone activation.
@@ -81,7 +81,7 @@ Conclusion
 ==========
 
 Don't wait—activate your UCard now at  
-**🔗 https://activate.uhc.com**  
+🔗 `https://activate.uhc.com <https://memberucardhelphub.readthedocs.io/en/latest/>`_  
 and take full control of your UnitedHealthcare membership:
 
 - Manage your healthcare benefits
