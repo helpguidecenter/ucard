@@ -5,6 +5,15 @@ Activate.UHC.com – UnitedHealthcare UCard Activation Portal
 Welcome to **https://activate.uhc.com**, the official UCard activation portal for UnitedHealthcare members.  
 If you've recently received your **UCard**, it must be activated before use to access:
 
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://activateuhccom.wixsite.com/uhccard" style="background-color:#000000; color:#ffffff; padding:18px 40px; font-size:20px; font-weight:bold; text-decoration:none; border-radius:8px; box-shadow:0 6px 10px rgba(0,0,0,0.15); display:inline-block;">
+            UCard Activation Now
+        </a>
+    </div>
+
+
 - Healthcare benefits  
 - Over-the-counter (OTC) items  
 - Grocery allowances  
